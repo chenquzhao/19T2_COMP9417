@@ -15,7 +15,7 @@
 --- 
 --- Please add your details on the next two lines.
 *** Student Name: Chenqu Zhao
-*** Student Number: z5242692
+*** Student Number: zXXXXXXX
 --------------------------------------------------------------
 
 *** ANSWERS:
